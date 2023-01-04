@@ -1,5 +1,5 @@
 # Projeto-Cordel
- Projeto Cordel feito no curso de HTML&CSS. Esse foi bastante divertido de fazer, surpreendentemente não fiquei presa em nenhum dos problemas que tive no <a href="https://github.com/itsdamel/androidpage">projeto android</a>, o que me trouxe aquela sensação gostosinha de progresso e aprendizado. Como a nordestina que sou, ver essa proposta de desafio me alegrou e animou bastante, tenho alguns cordeis aqui na minha estante e o senhor Milton Duarte é um dos meus escritores favoritos. Para os que se interessam, recomendo as xilogravuras do falecido e genial J. Borges, um favorito pessoal, influenciada por uma pessoa também especial.
+ Projeto Cordel feito no curso de HTML&CSS. Esse foi bastante divertido de fazer, surpreendentemente não fiquei presa em nenhum dos problemas que tive no <a href="https://github.com/itsdamel/androidpage">projeto android</a>, o que me trouxe aquela sensação gostosinha de progresso e aprendizado. Como a nordestina que sou, ver essa proposta de desafio me alegrou e animou bastante, tenho alguns cordeis aqui na minha estante e o senhor Milton Duarte é um dos meus escritores favoritos. Para os que se interessam, recomendo as xilogravuras do genial J. Borges, um favorito pessoal, influenciada por uma pessoa também especial.
  
  Você pode vizualizar a página <a href="https://itsdamel.github.io/Projeto-Cordel/">aqui</a>.
 
